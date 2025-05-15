@@ -1,6 +1,6 @@
 # SQL-Progress-Journal-day-28
 
-# Day 29 - SQL Learning Journey 🚀  
+# Day 28 - SQL Learning Journey 🚀  
 **Date:** 13 May 2025  
 **Course:** CS50's Introduction to Databases with SQL  
 **Focus:** Table Creation, Column Constraints, and Primary Keys  
